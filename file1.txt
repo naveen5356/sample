@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 helloooo
-
-=======
 hello
->>>>>>> f11aa6c9374d7ef4e130c21b7ad4188bd5b9cdce
